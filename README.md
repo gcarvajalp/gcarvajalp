@@ -16,24 +16,27 @@
 
 <br/>
 
-I design and build the services behind **iBuilder**: APIs, data models, and Vue surfaces for planning, production control, and site operations.
+<p align="center">
+  I design and build the services behind <strong>iBuilder</strong>: APIs, data models, and Vue surfaces for planning, production control, and site operations.
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<br/>
 
-### Focus
-- TypeScript services and domain APIs
-- Vue product interfaces
-- Production systems in construction-tech
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-2DD4BF?style=flat-square&labelColor=2DD4BF&color=2DD4BF" alt="" />
+</p>
+<p align="center">
+  TypeScript services and domain APIs<br/>
+  Vue product interfaces<br/>
+  Production systems in construction-tech
+</p>
 
-    </td>
-    <td width="50%" valign="top">
+<br/>
 
-### Now
-- Shipping planning and production systems at [iQbuild](https://github.com/iqbuild)
-- Based in Coquimbo, Chile
-
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/NOW-38BDF8?style=flat-square&labelColor=38BDF8&color=38BDF8" alt="" />
+</p>
+<p align="center">
+  Shipping planning and production systems at <a href="https://github.com/iqbuild">iQbuild</a><br/>
+  Based in Coquimbo, Chile
+</p>
